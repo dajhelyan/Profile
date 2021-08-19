@@ -1,0 +1,35 @@
+@import "./css/components/card.css";
+@import "./css/components/avatar.css";
+@import "./css/components/icons.css";
+
+body{
+	margin: 0px;
+	background: rgb(159,230,231);
+background: linear-gradient(0deg, rgba(159,230,231,0.771212708716299) 0%, rgba(253,187,45,1) 100%);
+  color: #110e0e;
+}
+.container{
+	margin: 20px 0px;
+}
+.text-center {
+  text-align: center;
+}
+.border-gray{
+    border: solid #1b17173d;
+}
+
+.list-icons{
+    display: flex;
+    justify-content: center;
+		padding-bottom: 15px;
+
+}
+/* .icon-img{
+	width: 35px;
+    height: 35px;
+}  */
+ /* .fab{
+	font-size: 35px;
+	margin: 0 5px;
+	color: black;
+} */

@@ -1,0 +1,17 @@
+/* iconos */
+
+.cont-redes img{
+	font-size: 35px;
+	margin: 0 5px;
+	color: black;
+}
+/* hover */
+.cont-redes .fab{
+	font-size: 35px;
+	margin: 0 5px;
+	color: black;
+}
+/* hover */
+.fab:hover{
+  font-size: 50px;
+}
